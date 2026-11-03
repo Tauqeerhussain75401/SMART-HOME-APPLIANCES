@@ -1,0 +1,70 @@
+Gravicon Display - PC Type 1/Truetype
+Release - October 1996
+Copyright © 1996 by Tom C. Lai.
+All Rights Reserved
+
+Gravicon Display is a heavy weight modern font, based on a stencil theme,
+fairly futuristic looking - think of those sci-fi wall stencils in film and
+TV productions.  It is very compact, and is best used a larger point sizes.
+It has a full character set, a few dead characters, a set of symbols, and
+a few alternate characters (option-character).  The two alternate
+characters are A and V.
+
+This is the final release version, so if you have already paid for a
+previous version, you are automatically registered for this version.  There
+have been significant changes to the spacing and kerning of characters - so
+be aware that existing layouts may require reworking.  Windows (Type 1 and
+Truetype) versions are now available.  I am no longer using cityfox@aol.com
+as an address - please direct your mail to tclai@kagi.com.
+
+If you use this font for 30 days or more, either erase the font or pay the
+shareware fee.  That's it.
+
+Pricing:     $15 per copy (non-commercial, single user)
+                 $20 per copy (commercial, single user)
+
+                 $300 per site license, $1200 for all locations
+(non-commercial)
+
+Terms of Use:
+
+By using this font, you accept and agree to the conditions as set forth in
+this agreement.
+
+YOU CAN:
+
+Distribute the original archive to any friends or non-commercial electronic
+information services.  Use each registered copy on one machine at a time.
+Install a copy on a network, provided that the number of machines using the
+font at one time does not exceed the number of registered copies (purchase
+a site license to avoid the need to track each copy.)  Send more money if
+you feel like it, and/or feedback, where this font will be used, etc.
+
+YOU CANNOT:
+
+Distribute this product commercially without express written consent of
+author.  Translate or create derivative works based upon this software.
+Sub-license, sell, rent, lend, or lease any part of the software.  Remove,
+replace, obscure, or alter any documentation or copyright notices contained
+within the archive or the software itself.  Distribute this software in
+anything other than the original archive.  Distribute this software without
+the original documentation.  Reverse engineer, decompile, or disassemble
+this software.
+
+Contact Information:
+
+(correspondence only)
+TLai Enterprises
+10719 Ashby Ave.
+Los Angeles, CA 90064-3210
+tclai@kagi.com
+http://www.kagi.com/authors/tclai/
+
+(send all payments to)
+Kagi
+1442-A Walnut Street #392-TB
+Berkeley, California 94709-1405 USA
+510 652-6589 FAX
+shareware@kagi.com
+
+
